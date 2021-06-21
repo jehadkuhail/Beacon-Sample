@@ -1,0 +1,2 @@
+rootProject.name = "Beacon Sample"
+include ':app'
